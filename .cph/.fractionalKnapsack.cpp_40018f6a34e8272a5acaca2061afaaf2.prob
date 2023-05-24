@@ -1,0 +1,1 @@
+{"name":"Local: fractionalKnapsack","url":"c:\\Users\\ayush\\OneDrive\\Desktop\\DAA exam\\fractionalKnapsack.cpp","tests":[{"id":1682967747051,"input":"7\n20\n2 3 5 7 1 4 1 \n10 5 15 7 6 18 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ayush\\OneDrive\\Desktop\\DAA exam\\fractionalKnapsack.cpp","group":"local","local":true}
